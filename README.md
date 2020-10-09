@@ -9,9 +9,9 @@ The student had to write code to (a) import the data and answer interesting ques
 (b) write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
 Many thanks to udacity team for this nanodegree it helped me in this project if you want to apply check this link : https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104 
