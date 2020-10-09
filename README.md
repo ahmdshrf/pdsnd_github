@@ -1,15 +1,19 @@
-### Date created
-Include the date you created this project and README file.
+## Explore US BikeShare Data
 
-### Project Title
-Replace the Project Title
+### Date created
+This Project was created on 9/10/2020
 
 ### Description
-Describe what your project is about and what it does
+In this project, the student had to make use of Python to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. 
+The student had to write code to (a) import the data and answer interesting questions about it by computing descriptive statistics, and 
+(b) write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Many thanks to udacity team for this nanodegree it helped me in this project if you want to apply check this link : https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104 
+,and w3schools tutorial helped me also , you can check it through this link : https://www.w3schools.com/python/ 
 
