@@ -13,11 +13,6 @@ The student had to write code to (a) import the data and answer interesting ques
 * new_york_city.csv
 * washington.csv
 
-#### Requirements
-This program was written in Python (version 3.7.1) and relies on the following libraries:
-
-* pandas==0.23.4
-* numpy==1.15.4
 
 ### Credits
 Many thanks to udacity team for this nanodegree it helped me in this project if you want to apply check this link : https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
